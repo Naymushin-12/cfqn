@@ -1,0 +1,14 @@
+/* Стиль для регистрации */
+.reg a {
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.form-text1 {
+    margin-left: 228px;
+    margin-bottom: 2px;
+}
+
+.form-text2 {
+    margin-left: 119px;
+}
